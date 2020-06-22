@@ -13,4 +13,4 @@
 2. Możliwość sprawdzenia na koniec dnia wysokość wynagrodzenia dla konkretnego kelnera (zależne od ilości przyjętych zamówień)
 
 ## Model bazy danych
-<img src= "https://github.com/lukaszj98/Pizza-Site/blob/master/Relation.png" width="800" height="800" />
+<img src= "https://github.com/lukaszj98/Pizza-Site/blob/master/Relation.png" width="900" height="800" />
