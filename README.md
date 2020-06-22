@@ -9,6 +9,7 @@
 
 1.tworzenie niestandardowej pizzy przez klienta, a gdy taka pizza zostanie stworzona 3 razy w ciągu dnia dodanie jej
   do listy pizzy standardowej.
+
 2. Możliwość sprawdzenia na koniec dnia wysokość wynagrodzenia dla konkretnego kelnera (zależne od ilości przyjętych zamówień)
 
 ## Model bazy danych
